@@ -3,7 +3,6 @@
 - 🔭 Desenvolvedor Front-End e Back-End
 - 🌱 Estudando C#, Type-Script e Futuramente ReactJS 🤓
 - 📫 Meu Email é vitorlemos703@gmail.com
-- 😄 Pronouns: Homen
 
 <div align="center">
   <a href="https://github.com/Lemos0250">
