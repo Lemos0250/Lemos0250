@@ -7,14 +7,16 @@ I am passionate about web and mobile development. I love creating interactive we
 "The perception of the unknown is the most fascinating of experiences. The man who does not have his eyes open to the mysterious will go through life without seeing anything." <br>
 `- Albert Einstein.`
 
+🗣 Advanced English.
+
 ## My Skills 🛠
 
 <div> 
     <a target="_blank"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" target="_blank"></a>
+    <a target="_blank"><img src="https://img.shields.io/badge/ReactNative-222222?style=for-the-badge&logo=React&logoColor=" target="_blank"></a>
     <a target="_blank"><img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" target="_blank"></a>
     <a target="_blank"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"  target="_blank"></a>
     <a target="_blank"><img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" target="_blank"></a>
-    <a target="_blank"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" target="_blank"></a>
     <a target="_blank"><img src="https://img.shields.io/badge/Sql-2F363D?style=for-the-badge&logo=mysql&logoColor=white" target="_blank"></a>
 </div>
 
